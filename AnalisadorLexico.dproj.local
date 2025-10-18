@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/10/18 11:27:11.971,=C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/18 11:27:28.487,C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\uPrincipal.dfm=C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/10/18 11:27:28.487,C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\uPrincipal.pas=C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/18 11:27:43.400,C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\AnalisadorLexico.dproj=C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/10/18 11:29:50.812,=C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/18 11:29:58.525,C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\uAnalisadorLexico.pas=C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/18 12:05:30.927,C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\uAnalisadorLexico.pas=</Transaction>
+    <Transaction>2025/10/18 12:08:00.484,=C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/18 12:08:04.642,C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\uAnalisadorLexico.pas=C:\Users\Gabola\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
